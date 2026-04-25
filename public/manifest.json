@@ -1,0 +1,16 @@
+{
+  "name": "Streamora",
+  "short_name": "Streamora",
+  "description": "A premium entertainment discovery platform for movies and series.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121214",
+  "theme_color": "#121214",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

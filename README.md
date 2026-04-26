@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://streamora-pied.vercel.app/">
-    <img src="docs/screenshots/home.png" alt="Streamora" width="100%" />
+    <img src="preview/home.gif" alt="Streamora" width="100%" />
   </a>
 </p>
 
 <h1 align="center">◈ Streamora</h1>
 
 <p align="center">
-  <strong>Movie and series discovery, watchlist, and analytics — built to feel like a real product.</strong>
+  <strong>Movie and series discovery, watchlist, and analytics</strong>
 </p>
 
 <p align="center">
@@ -24,13 +24,13 @@ Streamora is a full-featured entertainment discovery platform powered by the [TM
 ## Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/detail.png" alt="Detail page" width="49%" />
-  <img src="docs/screenshots/search.png" alt="Search" width="49%" />
+  <img src="preview/detail.gif" alt="Detail page" width="49%" />
+  <img src="preview/search.gif" alt="Search" width="49%" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/watchlist.png" alt="Watchlist" width="49%" />
-  <img src="docs/screenshots/analytics.png" alt="Analytics" width="49%" />
+  <img src="preview/watchlist.gif" alt="Watchlist" width="49%" />
+  <img src="preview/analytics.gif" alt="Analytics" width="49%" />
 </p>
 
 ## Features

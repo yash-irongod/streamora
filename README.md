@@ -21,8 +21,6 @@
 
 Streamora is a full-featured entertainment discovery platform powered by the [TMDb API](https://www.themoviedb.org/). Browse trending content, explore rich title pages with cast and streaming providers, build a tracked watchlist, and get personal analytics — all in a dark-first, cinematic React app.
 
-[![Streamora](https://img.shields.io/badge/Streamora-000000?style=for-the-badge&logo=streamora&logoColor=white)](https://streamora-pied.vercel.app/)
-
 ## Screenshots
 
 <p align="center">

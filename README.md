@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <a href="https://streamora-pied.vercel.app/">
     <img src="docs/screenshots/home.png" alt="Streamora — Movie & Series Discovery Platform" width="100%" style="border-radius:12px;" />
@@ -164,4 +163,3 @@ All client-side routes (`/movie/:id`, `/person/:id`, etc.) resolve correctly in 
 <p align="center">
   <sub>Content provided by <a href="https://www.themoviedb.org/">TMDb</a>. Not affiliated with or endorsed by TMDb.<br/>Built for portfolio and educational use.</sub>
 </p>
-```

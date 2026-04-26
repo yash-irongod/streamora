@@ -12,28 +12,16 @@
 
 <p align="center">
   <a href="https://streamora-pied.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-streamora--pied.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
   </a>
-  &nbsp;
   <a href="https://github.com/yash-irongod/streamora">
-    <img src="https://img.shields.io/badge/GitHub-yash--irongod/streamora-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
-  <img src="https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 8" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-2-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/React_Router-7-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router 7" />
-  <img src="https://img.shields.io/badge/TMDb-API-01D277?style=flat-square&logo=themoviedatabase&logoColor=white" alt="TMDb API" />
-  <img src="https://img.shields.io/badge/Recharts-2-22B5BF?style=flat-square" alt="Recharts" />
-</p>
-
----
 
 Streamora is a full-featured entertainment discovery platform powered by the [TMDb API](https://www.themoviedb.org/). Browse trending content, explore rich title pages with cast and streaming providers, build a tracked watchlist, and get personal analytics — all in a dark-first, cinematic React app.
 
----
+[![Streamora](https://img.shields.io/badge/Streamora-000000?style=for-the-badge&logo=streamora&logoColor=white)](https://streamora-pied.vercel.app/)
 
 ## Screenshots
 
@@ -46,8 +34,6 @@ Streamora is a full-featured entertainment discovery platform powered by the [TM
   <img src="docs/screenshots/watchlist.png" alt="Watchlist" width="49%" />
   <img src="docs/screenshots/analytics.png" alt="Analytics" width="49%" />
 </p>
-
----
 
 ## Features
 
@@ -67,7 +53,7 @@ Streamora is a full-featured entertainment discovery platform powered by the [TM
 
 **Dark / Light mode** — Dark-first design with a polished toggle, synced to `localStorage` across every surface.
 
----
+**Responsive** — Layouts and components are built to scale and adapt to screen size.
 
 ## Tech Stack
 
@@ -81,8 +67,6 @@ Streamora is a full-featured entertainment discovery platform powered by the [TM
 | **Styling** | CSS custom properties + Tailwind base | Dark/light tokens, component styles |
 | **API** | TMDb v3 (free, non-commercial) | Movies, TV, trending, cast, providers |
 | **Performance** | `React.lazy` + `Suspense` + `memo` | Code splitting + targeted selectors |
-
----
 
 ## Routes
 
@@ -100,8 +84,6 @@ Streamora is a full-featured entertainment discovery platform powered by the [TM
 | `/analytics` | Analytics — personal insights + platform charts |
 | `*` | 404 |
 
----
-
 ## Project Structure
 
 ```
@@ -118,8 +100,6 @@ src/
 ├── store/              # themeSlice, watchlistSlice, recentlyViewedSlice
 └── styles/             # index.css, components.css, layouts.css, animations.css
 ```
-
----
 
 ## Getting Started
 
@@ -145,8 +125,6 @@ VITE_TMDB_IMAGE_BASE_URL=https://image.tmdb.org/t/p
 npm run build   # → dist/
 ```
 
----
-
 ## Deployment
 
 Live at **[streamora-pied.vercel.app](https://streamora-pied.vercel.app/)** — deployed on Vercel with SPA route rewrites via `vercel.json`.
@@ -154,8 +132,6 @@ Live at **[streamora-pied.vercel.app](https://streamora-pied.vercel.app/)** — 
 ```bash
 npx vercel --prod
 ```
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
